@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "odQfSunyHOEZ2SypC8q/NW9MpHYuPybaIsv4ptSziAs+CfIcKsRr8mMqCBBdEoNFR5zv8D59N30GNiV93wbgxA==",
+  "success": true,
+  "projectFilePath": "E:\\vscode\\vr\\c#\\vr\\numeros_ate_1000\\numeros_ate_1000.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jerus\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\jerus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\jerus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\jerus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.9\\microsoft.netcore.app.host.win-x64.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

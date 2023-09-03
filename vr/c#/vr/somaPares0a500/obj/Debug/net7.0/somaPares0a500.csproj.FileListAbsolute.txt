@@ -1,0 +1,15 @@
+/home/jrs/vscode/c#/vr/somaPares0a500/obj/Debug/net7.0/somaPares0a500.csproj.AssemblyReference.cache
+/home/jrs/vscode/c#/vr/somaPares0a500/obj/Debug/net7.0/somaPares0a500.GeneratedMSBuildEditorConfig.editorconfig
+/home/jrs/vscode/c#/vr/somaPares0a500/obj/Debug/net7.0/somaPares0a500.AssemblyInfoInputs.cache
+/home/jrs/vscode/c#/vr/somaPares0a500/obj/Debug/net7.0/somaPares0a500.AssemblyInfo.cs
+/home/jrs/vscode/c#/vr/somaPares0a500/obj/Debug/net7.0/somaPares0a500.csproj.CoreCompileInputs.cache
+/home/jrs/vscode/c#/vr/somaPares0a500/bin/Debug/net7.0/somaPares0a500
+/home/jrs/vscode/c#/vr/somaPares0a500/bin/Debug/net7.0/somaPares0a500.deps.json
+/home/jrs/vscode/c#/vr/somaPares0a500/bin/Debug/net7.0/somaPares0a500.runtimeconfig.json
+/home/jrs/vscode/c#/vr/somaPares0a500/bin/Debug/net7.0/somaPares0a500.dll
+/home/jrs/vscode/c#/vr/somaPares0a500/bin/Debug/net7.0/somaPares0a500.pdb
+/home/jrs/vscode/c#/vr/somaPares0a500/obj/Debug/net7.0/somaPares0a500.dll
+/home/jrs/vscode/c#/vr/somaPares0a500/obj/Debug/net7.0/refint/somaPares0a500.dll
+/home/jrs/vscode/c#/vr/somaPares0a500/obj/Debug/net7.0/somaPares0a500.pdb
+/home/jrs/vscode/c#/vr/somaPares0a500/obj/Debug/net7.0/somaPares0a500.genruntimeconfig.cache
+/home/jrs/vscode/c#/vr/somaPares0a500/obj/Debug/net7.0/ref/somaPares0a500.dll

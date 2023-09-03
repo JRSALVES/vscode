@@ -1,0 +1,15 @@
+/home/jrs/vscode/c#/vr/soma/obj/Debug/net7.0/soma.csproj.AssemblyReference.cache
+/home/jrs/vscode/c#/vr/soma/obj/Debug/net7.0/soma.GeneratedMSBuildEditorConfig.editorconfig
+/home/jrs/vscode/c#/vr/soma/obj/Debug/net7.0/soma.AssemblyInfoInputs.cache
+/home/jrs/vscode/c#/vr/soma/obj/Debug/net7.0/soma.AssemblyInfo.cs
+/home/jrs/vscode/c#/vr/soma/obj/Debug/net7.0/soma.csproj.CoreCompileInputs.cache
+/home/jrs/vscode/c#/vr/soma/bin/Debug/net7.0/soma
+/home/jrs/vscode/c#/vr/soma/bin/Debug/net7.0/soma.deps.json
+/home/jrs/vscode/c#/vr/soma/bin/Debug/net7.0/soma.runtimeconfig.json
+/home/jrs/vscode/c#/vr/soma/bin/Debug/net7.0/soma.dll
+/home/jrs/vscode/c#/vr/soma/bin/Debug/net7.0/soma.pdb
+/home/jrs/vscode/c#/vr/soma/obj/Debug/net7.0/soma.dll
+/home/jrs/vscode/c#/vr/soma/obj/Debug/net7.0/refint/soma.dll
+/home/jrs/vscode/c#/vr/soma/obj/Debug/net7.0/soma.pdb
+/home/jrs/vscode/c#/vr/soma/obj/Debug/net7.0/soma.genruntimeconfig.cache
+/home/jrs/vscode/c#/vr/soma/obj/Debug/net7.0/ref/soma.dll

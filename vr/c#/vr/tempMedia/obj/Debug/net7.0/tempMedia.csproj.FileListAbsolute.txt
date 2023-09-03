@@ -1,0 +1,15 @@
+/home/jrs/vscode/c#/vr/tempMedia/obj/Debug/net7.0/tempMedia.csproj.AssemblyReference.cache
+/home/jrs/vscode/c#/vr/tempMedia/obj/Debug/net7.0/tempMedia.GeneratedMSBuildEditorConfig.editorconfig
+/home/jrs/vscode/c#/vr/tempMedia/obj/Debug/net7.0/tempMedia.AssemblyInfoInputs.cache
+/home/jrs/vscode/c#/vr/tempMedia/obj/Debug/net7.0/tempMedia.AssemblyInfo.cs
+/home/jrs/vscode/c#/vr/tempMedia/obj/Debug/net7.0/tempMedia.csproj.CoreCompileInputs.cache
+/home/jrs/vscode/c#/vr/tempMedia/bin/Debug/net7.0/tempMedia
+/home/jrs/vscode/c#/vr/tempMedia/bin/Debug/net7.0/tempMedia.deps.json
+/home/jrs/vscode/c#/vr/tempMedia/bin/Debug/net7.0/tempMedia.runtimeconfig.json
+/home/jrs/vscode/c#/vr/tempMedia/bin/Debug/net7.0/tempMedia.dll
+/home/jrs/vscode/c#/vr/tempMedia/bin/Debug/net7.0/tempMedia.pdb
+/home/jrs/vscode/c#/vr/tempMedia/obj/Debug/net7.0/tempMedia.dll
+/home/jrs/vscode/c#/vr/tempMedia/obj/Debug/net7.0/refint/tempMedia.dll
+/home/jrs/vscode/c#/vr/tempMedia/obj/Debug/net7.0/tempMedia.pdb
+/home/jrs/vscode/c#/vr/tempMedia/obj/Debug/net7.0/tempMedia.genruntimeconfig.cache
+/home/jrs/vscode/c#/vr/tempMedia/obj/Debug/net7.0/ref/tempMedia.dll

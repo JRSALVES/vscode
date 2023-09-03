@@ -1,0 +1,15 @@
+/home/jrs/vscode/c#/vr/convTemp/obj/Debug/net7.0/convTemp.csproj.AssemblyReference.cache
+/home/jrs/vscode/c#/vr/convTemp/obj/Debug/net7.0/convTemp.GeneratedMSBuildEditorConfig.editorconfig
+/home/jrs/vscode/c#/vr/convTemp/obj/Debug/net7.0/convTemp.AssemblyInfoInputs.cache
+/home/jrs/vscode/c#/vr/convTemp/obj/Debug/net7.0/convTemp.AssemblyInfo.cs
+/home/jrs/vscode/c#/vr/convTemp/obj/Debug/net7.0/convTemp.csproj.CoreCompileInputs.cache
+/home/jrs/vscode/c#/vr/convTemp/bin/Debug/net7.0/convTemp
+/home/jrs/vscode/c#/vr/convTemp/bin/Debug/net7.0/convTemp.deps.json
+/home/jrs/vscode/c#/vr/convTemp/bin/Debug/net7.0/convTemp.runtimeconfig.json
+/home/jrs/vscode/c#/vr/convTemp/bin/Debug/net7.0/convTemp.dll
+/home/jrs/vscode/c#/vr/convTemp/bin/Debug/net7.0/convTemp.pdb
+/home/jrs/vscode/c#/vr/convTemp/obj/Debug/net7.0/convTemp.dll
+/home/jrs/vscode/c#/vr/convTemp/obj/Debug/net7.0/refint/convTemp.dll
+/home/jrs/vscode/c#/vr/convTemp/obj/Debug/net7.0/convTemp.pdb
+/home/jrs/vscode/c#/vr/convTemp/obj/Debug/net7.0/convTemp.genruntimeconfig.cache
+/home/jrs/vscode/c#/vr/convTemp/obj/Debug/net7.0/ref/convTemp.dll

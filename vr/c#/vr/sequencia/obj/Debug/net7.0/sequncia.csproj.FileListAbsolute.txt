@@ -1,0 +1,15 @@
+/home/jrs/vscode/c#/vr/sequencia/obj/Debug/net7.0/sequncia.csproj.AssemblyReference.cache
+/home/jrs/vscode/c#/vr/sequencia/obj/Debug/net7.0/sequncia.GeneratedMSBuildEditorConfig.editorconfig
+/home/jrs/vscode/c#/vr/sequencia/obj/Debug/net7.0/sequncia.AssemblyInfoInputs.cache
+/home/jrs/vscode/c#/vr/sequencia/obj/Debug/net7.0/sequncia.AssemblyInfo.cs
+/home/jrs/vscode/c#/vr/sequencia/obj/Debug/net7.0/sequncia.csproj.CoreCompileInputs.cache
+/home/jrs/vscode/c#/vr/sequencia/bin/Debug/net7.0/sequncia
+/home/jrs/vscode/c#/vr/sequencia/bin/Debug/net7.0/sequncia.deps.json
+/home/jrs/vscode/c#/vr/sequencia/bin/Debug/net7.0/sequncia.runtimeconfig.json
+/home/jrs/vscode/c#/vr/sequencia/bin/Debug/net7.0/sequncia.dll
+/home/jrs/vscode/c#/vr/sequencia/bin/Debug/net7.0/sequncia.pdb
+/home/jrs/vscode/c#/vr/sequencia/obj/Debug/net7.0/sequncia.dll
+/home/jrs/vscode/c#/vr/sequencia/obj/Debug/net7.0/refint/sequncia.dll
+/home/jrs/vscode/c#/vr/sequencia/obj/Debug/net7.0/sequncia.pdb
+/home/jrs/vscode/c#/vr/sequencia/obj/Debug/net7.0/sequncia.genruntimeconfig.cache
+/home/jrs/vscode/c#/vr/sequencia/obj/Debug/net7.0/ref/sequncia.dll

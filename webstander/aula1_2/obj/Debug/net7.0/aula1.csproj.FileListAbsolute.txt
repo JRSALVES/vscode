@@ -1,0 +1,5 @@
+/workspaces/curso/senac/terceiro/webstander/aula1/obj/Debug/net7.0/aula1.csproj.AssemblyReference.cache
+/workspaces/curso/senac/terceiro/webstander/aula1/obj/Debug/net7.0/aula1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/curso/senac/terceiro/webstander/aula1/obj/Debug/net7.0/aula1.AssemblyInfoInputs.cache
+/workspaces/curso/senac/terceiro/webstander/aula1/obj/Debug/net7.0/aula1.AssemblyInfo.cs
+/workspaces/curso/senac/terceiro/webstander/aula1/obj/Debug/net7.0/aula1.csproj.CoreCompileInputs.cache

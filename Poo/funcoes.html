@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Clic no botão para saber sua localização</title>
+    <button onclick="obterlocal()">Veja aqui</button>
+    <script type="text/javascript">
+        
+        function obterlocal(){
+            if(navigator.geolocation){
+                navigator.geolocation.getCurrentPosition(posicao);
+            }else{
+                console.log("Não foi possivel localizar, seu browser não oferece este suporte");
+            }
+        }
+        function posicao(local){
+            console.log(" latitude : "+local.coords.latitude + " Longitude : " +local.coords.longitude);
+        }
+    </script>
+</head>
+<body>
+    <h1>Exemplo de métodos e funções da API Windows</h1>    
+</body>
+</html>

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../senac"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "senac/terceiro/terceiro.sln"
+	}
+}

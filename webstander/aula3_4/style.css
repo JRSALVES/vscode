@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+/*a regra acima serve para "zerar" algumas propriedades que já possuem certas mediadas como padrão*/
+body{background-color: ghostwhite;}
+h2{
+    font-size: 14px;
+    color: #777777;
+    line-height: 55px; /*altera a altura da linha do texte*/
+    height: 55px;/*Altera a altura do elemento */
+    background-color: black;
+}
+h1{
+    font-size: 72px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center; /* Altera o alinhamento do texto*/
+    height: 400px;
+    line-height: 400px;
+    background-color: #777777;
+    color: #ffffff;
+}
+h3{
+    display: none;/*Define que o objeto não será exibido*/
+}
+h4{
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkcyan;
+    margin: 24px;/*Altera a margem ao redor do objeto para 24px*/
+    clear: both;/*Remove o elemento flutuante de ambos os lados*/
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    width: 250px; /*Reduz a largura do parágrafo para 250px*/
+    margin: 24px;
+}
+li{
+    border: solid 1px #cccccc;
+    color: #ffffff;
+    background-color: darkcyan;
+    width: 150px;
+    margin: 12px;
+    padding: 8px; /* Altera a margem interna para 8px*/
+    float: left; /* Posiciona o elemento à esquerda do  elemento abaixo*/
+}
+ .preco{
+    color: royalblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+}

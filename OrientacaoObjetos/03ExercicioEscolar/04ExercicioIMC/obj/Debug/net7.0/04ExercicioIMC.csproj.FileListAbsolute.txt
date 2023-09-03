@@ -1,0 +1,5 @@
+/home/jrs/vscode/OrientacaoObjetos/03ExercicioEscolar/04ExercicioIMC/obj/Debug/net7.0/04ExercicioIMC.csproj.AssemblyReference.cache
+/home/jrs/vscode/OrientacaoObjetos/03ExercicioEscolar/04ExercicioIMC/obj/Debug/net7.0/04ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+/home/jrs/vscode/OrientacaoObjetos/03ExercicioEscolar/04ExercicioIMC/obj/Debug/net7.0/04ExercicioIMC.AssemblyInfoInputs.cache
+/home/jrs/vscode/OrientacaoObjetos/03ExercicioEscolar/04ExercicioIMC/obj/Debug/net7.0/04ExercicioIMC.AssemblyInfo.cs
+/home/jrs/vscode/OrientacaoObjetos/03ExercicioEscolar/04ExercicioIMC/obj/Debug/net7.0/04ExercicioIMC.csproj.CoreCompileInputs.cache

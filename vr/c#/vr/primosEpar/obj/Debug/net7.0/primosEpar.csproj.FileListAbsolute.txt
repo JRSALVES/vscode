@@ -1,0 +1,15 @@
+/home/jrs/vscode/c#/vr/primosEpar/obj/Debug/net7.0/primosEpar.csproj.AssemblyReference.cache
+/home/jrs/vscode/c#/vr/primosEpar/obj/Debug/net7.0/primosEpar.GeneratedMSBuildEditorConfig.editorconfig
+/home/jrs/vscode/c#/vr/primosEpar/obj/Debug/net7.0/primosEpar.AssemblyInfoInputs.cache
+/home/jrs/vscode/c#/vr/primosEpar/obj/Debug/net7.0/primosEpar.AssemblyInfo.cs
+/home/jrs/vscode/c#/vr/primosEpar/obj/Debug/net7.0/primosEpar.csproj.CoreCompileInputs.cache
+/home/jrs/vscode/c#/vr/primosEpar/bin/Debug/net7.0/primosEpar
+/home/jrs/vscode/c#/vr/primosEpar/bin/Debug/net7.0/primosEpar.deps.json
+/home/jrs/vscode/c#/vr/primosEpar/bin/Debug/net7.0/primosEpar.runtimeconfig.json
+/home/jrs/vscode/c#/vr/primosEpar/bin/Debug/net7.0/primosEpar.dll
+/home/jrs/vscode/c#/vr/primosEpar/bin/Debug/net7.0/primosEpar.pdb
+/home/jrs/vscode/c#/vr/primosEpar/obj/Debug/net7.0/primosEpar.dll
+/home/jrs/vscode/c#/vr/primosEpar/obj/Debug/net7.0/refint/primosEpar.dll
+/home/jrs/vscode/c#/vr/primosEpar/obj/Debug/net7.0/primosEpar.pdb
+/home/jrs/vscode/c#/vr/primosEpar/obj/Debug/net7.0/primosEpar.genruntimeconfig.cache
+/home/jrs/vscode/c#/vr/primosEpar/obj/Debug/net7.0/ref/primosEpar.dll

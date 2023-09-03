@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <h1>Página para Interagir com o Usuário</h1>
+    <h2>Programa para somar dois valores</h2>
+    <p> Entre com o Primeiro número : </p>
+    <input type="text" id="valor1">
+    <p> Entre com o segundo número : </p>
+    <input type="text" id="valor2">
+    <p> Entre com o terceiro número : </p>
+    <input type="text" id="valor3">
+    <input type="submit" id="soma" value="Somar">
+    <p id="resultado"></p>
+    <script>
+        document.getElementById("soma").addEventListener("click",ler);
+        function ler() {
+           var num1 = document.getElementById("valor1").value;
+           var num2 = document.getElementById("valor2").value; 
+           var num3 = document.getElementById("valor3").value;  
+           total = parseInt(num1) + parseInt(num2) + parseInt(num3);
+           document.getElementById("resultado").innerHTML = ' Resultado da Soma = '+total;
+         }
+</script>
+</body>
+</html>

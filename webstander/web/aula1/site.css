@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
+
+
+/*<!-body{
+    font-family: "Rajdhani";
+    font-weight: 300;
+    background-color: ghostwhite;
+
+}->*/
+p{
+    font-family: Arial;
+    color: #777777;}
+
+li{
+    color: #ffffff;
+    background-color: darkcyan;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cccccc;
+}
+
+h4{
+    font-size: 24px;
+    color: darkcyan;
+    font-family: Cambria;
+}
+h3{
+   font-size: 16px; 
+   color:#777777;
+
+}
+
+h2{
+    font-size: 14px;
+    font-family: 'new times roman';
+    color: #777777;
+}
+
+h1{
+    font-size: 72px;
+    font-family: Cambria; 
+    color:rgba(2, 10, 4, 0.997)
+ }
+

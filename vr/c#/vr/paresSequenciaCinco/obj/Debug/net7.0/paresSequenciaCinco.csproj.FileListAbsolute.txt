@@ -1,0 +1,15 @@
+/home/jrs/vscode/c#/vr/paresSequenciaCinco/bin/Debug/net7.0/paresSequenciaCinco
+/home/jrs/vscode/c#/vr/paresSequenciaCinco/bin/Debug/net7.0/paresSequenciaCinco.deps.json
+/home/jrs/vscode/c#/vr/paresSequenciaCinco/bin/Debug/net7.0/paresSequenciaCinco.runtimeconfig.json
+/home/jrs/vscode/c#/vr/paresSequenciaCinco/bin/Debug/net7.0/paresSequenciaCinco.dll
+/home/jrs/vscode/c#/vr/paresSequenciaCinco/bin/Debug/net7.0/paresSequenciaCinco.pdb
+/home/jrs/vscode/c#/vr/paresSequenciaCinco/obj/Debug/net7.0/paresSequenciaCinco.csproj.AssemblyReference.cache
+/home/jrs/vscode/c#/vr/paresSequenciaCinco/obj/Debug/net7.0/paresSequenciaCinco.GeneratedMSBuildEditorConfig.editorconfig
+/home/jrs/vscode/c#/vr/paresSequenciaCinco/obj/Debug/net7.0/paresSequenciaCinco.AssemblyInfoInputs.cache
+/home/jrs/vscode/c#/vr/paresSequenciaCinco/obj/Debug/net7.0/paresSequenciaCinco.AssemblyInfo.cs
+/home/jrs/vscode/c#/vr/paresSequenciaCinco/obj/Debug/net7.0/paresSequenciaCinco.csproj.CoreCompileInputs.cache
+/home/jrs/vscode/c#/vr/paresSequenciaCinco/obj/Debug/net7.0/paresSequenciaCinco.dll
+/home/jrs/vscode/c#/vr/paresSequenciaCinco/obj/Debug/net7.0/refint/paresSequenciaCinco.dll
+/home/jrs/vscode/c#/vr/paresSequenciaCinco/obj/Debug/net7.0/paresSequenciaCinco.pdb
+/home/jrs/vscode/c#/vr/paresSequenciaCinco/obj/Debug/net7.0/paresSequenciaCinco.genruntimeconfig.cache
+/home/jrs/vscode/c#/vr/paresSequenciaCinco/obj/Debug/net7.0/ref/paresSequenciaCinco.dll

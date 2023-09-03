@@ -1,0 +1,15 @@
+/home/jrs/vscode/c#/vr/boi/obj/Debug/net7.0/boi.csproj.AssemblyReference.cache
+/home/jrs/vscode/c#/vr/boi/obj/Debug/net7.0/boi.GeneratedMSBuildEditorConfig.editorconfig
+/home/jrs/vscode/c#/vr/boi/obj/Debug/net7.0/boi.AssemblyInfoInputs.cache
+/home/jrs/vscode/c#/vr/boi/obj/Debug/net7.0/boi.AssemblyInfo.cs
+/home/jrs/vscode/c#/vr/boi/obj/Debug/net7.0/boi.csproj.CoreCompileInputs.cache
+/home/jrs/vscode/c#/vr/boi/bin/Debug/net7.0/boi
+/home/jrs/vscode/c#/vr/boi/bin/Debug/net7.0/boi.deps.json
+/home/jrs/vscode/c#/vr/boi/bin/Debug/net7.0/boi.runtimeconfig.json
+/home/jrs/vscode/c#/vr/boi/bin/Debug/net7.0/boi.dll
+/home/jrs/vscode/c#/vr/boi/bin/Debug/net7.0/boi.pdb
+/home/jrs/vscode/c#/vr/boi/obj/Debug/net7.0/boi.dll
+/home/jrs/vscode/c#/vr/boi/obj/Debug/net7.0/refint/boi.dll
+/home/jrs/vscode/c#/vr/boi/obj/Debug/net7.0/boi.pdb
+/home/jrs/vscode/c#/vr/boi/obj/Debug/net7.0/boi.genruntimeconfig.cache
+/home/jrs/vscode/c#/vr/boi/obj/Debug/net7.0/ref/boi.dll

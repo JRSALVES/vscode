@@ -1,0 +1,15 @@
+/workspaces/curso/senac/terceiro/poo/aula01/cc/obj/Debug/net7.0/cc.csproj.AssemblyReference.cache
+/workspaces/curso/senac/terceiro/poo/aula01/cc/obj/Debug/net7.0/cc.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/curso/senac/terceiro/poo/aula01/cc/obj/Debug/net7.0/cc.AssemblyInfoInputs.cache
+/workspaces/curso/senac/terceiro/poo/aula01/cc/obj/Debug/net7.0/cc.AssemblyInfo.cs
+/workspaces/curso/senac/terceiro/poo/aula01/cc/obj/Debug/net7.0/cc.csproj.CoreCompileInputs.cache
+/workspaces/curso/senac/terceiro/poo/aula01/cc/bin/Debug/net7.0/cc
+/workspaces/curso/senac/terceiro/poo/aula01/cc/bin/Debug/net7.0/cc.deps.json
+/workspaces/curso/senac/terceiro/poo/aula01/cc/bin/Debug/net7.0/cc.runtimeconfig.json
+/workspaces/curso/senac/terceiro/poo/aula01/cc/bin/Debug/net7.0/cc.dll
+/workspaces/curso/senac/terceiro/poo/aula01/cc/bin/Debug/net7.0/cc.pdb
+/workspaces/curso/senac/terceiro/poo/aula01/cc/obj/Debug/net7.0/cc.dll
+/workspaces/curso/senac/terceiro/poo/aula01/cc/obj/Debug/net7.0/refint/cc.dll
+/workspaces/curso/senac/terceiro/poo/aula01/cc/obj/Debug/net7.0/cc.pdb
+/workspaces/curso/senac/terceiro/poo/aula01/cc/obj/Debug/net7.0/cc.genruntimeconfig.cache
+/workspaces/curso/senac/terceiro/poo/aula01/cc/obj/Debug/net7.0/ref/cc.dll

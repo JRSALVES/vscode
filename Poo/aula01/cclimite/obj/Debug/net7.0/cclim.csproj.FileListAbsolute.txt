@@ -1,0 +1,15 @@
+/workspaces/curso/senac/terceiro/poo/aula01/cclim/bin/Debug/net7.0/cclim
+/workspaces/curso/senac/terceiro/poo/aula01/cclim/bin/Debug/net7.0/cclim.deps.json
+/workspaces/curso/senac/terceiro/poo/aula01/cclim/bin/Debug/net7.0/cclim.runtimeconfig.json
+/workspaces/curso/senac/terceiro/poo/aula01/cclim/bin/Debug/net7.0/cclim.dll
+/workspaces/curso/senac/terceiro/poo/aula01/cclim/bin/Debug/net7.0/cclim.pdb
+/workspaces/curso/senac/terceiro/poo/aula01/cclim/obj/Debug/net7.0/cclim.csproj.AssemblyReference.cache
+/workspaces/curso/senac/terceiro/poo/aula01/cclim/obj/Debug/net7.0/cclim.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/curso/senac/terceiro/poo/aula01/cclim/obj/Debug/net7.0/cclim.AssemblyInfoInputs.cache
+/workspaces/curso/senac/terceiro/poo/aula01/cclim/obj/Debug/net7.0/cclim.AssemblyInfo.cs
+/workspaces/curso/senac/terceiro/poo/aula01/cclim/obj/Debug/net7.0/cclim.csproj.CoreCompileInputs.cache
+/workspaces/curso/senac/terceiro/poo/aula01/cclim/obj/Debug/net7.0/cclim.dll
+/workspaces/curso/senac/terceiro/poo/aula01/cclim/obj/Debug/net7.0/refint/cclim.dll
+/workspaces/curso/senac/terceiro/poo/aula01/cclim/obj/Debug/net7.0/cclim.pdb
+/workspaces/curso/senac/terceiro/poo/aula01/cclim/obj/Debug/net7.0/cclim.genruntimeconfig.cache
+/workspaces/curso/senac/terceiro/poo/aula01/cclim/obj/Debug/net7.0/ref/cclim.dll

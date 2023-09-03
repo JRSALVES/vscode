@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ADOzPU5d+yH79JOdrlz1eTbq4FDKC2xZz7bUi28pY7ZhjfipWxgcORlOvRaC9eFxCsDI3UKZVGE8cHqcPTQL6g==",
+  "success": true,
+  "projectFilePath": "E:\\vscode\\vr\\c#\\vr\\soma100\\soma100.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jerus\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.9\\microsoft.netcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\jerus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.9\\microsoft.windowsdesktop.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\jerus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.9\\microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512",
+    "C:\\Users\\jerus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.9\\microsoft.netcore.app.host.win-x64.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/jrs/vscode/senac/poo/exercicios/animais/bin/Debug/net7.0/animais
+/home/jrs/vscode/senac/poo/exercicios/animais/bin/Debug/net7.0/animais.deps.json
+/home/jrs/vscode/senac/poo/exercicios/animais/bin/Debug/net7.0/animais.runtimeconfig.json
+/home/jrs/vscode/senac/poo/exercicios/animais/bin/Debug/net7.0/animais.dll
+/home/jrs/vscode/senac/poo/exercicios/animais/bin/Debug/net7.0/animais.pdb
+/home/jrs/vscode/senac/poo/exercicios/animais/obj/Debug/net7.0/animais.csproj.AssemblyReference.cache
+/home/jrs/vscode/senac/poo/exercicios/animais/obj/Debug/net7.0/animais.GeneratedMSBuildEditorConfig.editorconfig
+/home/jrs/vscode/senac/poo/exercicios/animais/obj/Debug/net7.0/animais.AssemblyInfoInputs.cache
+/home/jrs/vscode/senac/poo/exercicios/animais/obj/Debug/net7.0/animais.AssemblyInfo.cs
+/home/jrs/vscode/senac/poo/exercicios/animais/obj/Debug/net7.0/animais.csproj.CoreCompileInputs.cache
+/home/jrs/vscode/senac/poo/exercicios/animais/obj/Debug/net7.0/animais.dll
+/home/jrs/vscode/senac/poo/exercicios/animais/obj/Debug/net7.0/refint/animais.dll
+/home/jrs/vscode/senac/poo/exercicios/animais/obj/Debug/net7.0/animais.pdb
+/home/jrs/vscode/senac/poo/exercicios/animais/obj/Debug/net7.0/animais.genruntimeconfig.cache
+/home/jrs/vscode/senac/poo/exercicios/animais/obj/Debug/net7.0/ref/animais.dll

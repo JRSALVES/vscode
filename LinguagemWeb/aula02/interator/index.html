@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <time>interator</time>
+        <script type="text/javascript">
+            function* disciplina(){
+                yield 'Matemática' ;
+                yield 'Programação' ;
+                yield 'Banco de dados';
+            }
+            var matriclua = disciplina();
+            console.log(" Sua primeira disciplina : "+matriclua.next().value);
+            console.log(" Sua segunda disciplina : "+matriclua.next().value);
+            console.log(" Sua terceira disciplina : "+matriclua.next().value);
+        </script>
+    </head>
+    <body>
+        <h1>Exemplo de declaração de função no Generator</h1>
+
+    </body>
+</html>

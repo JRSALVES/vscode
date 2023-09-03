@@ -1,0 +1,15 @@
+/home/jrs/vscode/c#/vr/contarPares/obj/Debug/net7.0/contarPares.csproj.AssemblyReference.cache
+/home/jrs/vscode/c#/vr/contarPares/obj/Debug/net7.0/contarPares.GeneratedMSBuildEditorConfig.editorconfig
+/home/jrs/vscode/c#/vr/contarPares/obj/Debug/net7.0/contarPares.AssemblyInfoInputs.cache
+/home/jrs/vscode/c#/vr/contarPares/obj/Debug/net7.0/contarPares.AssemblyInfo.cs
+/home/jrs/vscode/c#/vr/contarPares/obj/Debug/net7.0/contarPares.csproj.CoreCompileInputs.cache
+/home/jrs/vscode/c#/vr/contarPares/bin/Debug/net7.0/contarPares
+/home/jrs/vscode/c#/vr/contarPares/bin/Debug/net7.0/contarPares.deps.json
+/home/jrs/vscode/c#/vr/contarPares/bin/Debug/net7.0/contarPares.runtimeconfig.json
+/home/jrs/vscode/c#/vr/contarPares/bin/Debug/net7.0/contarPares.dll
+/home/jrs/vscode/c#/vr/contarPares/bin/Debug/net7.0/contarPares.pdb
+/home/jrs/vscode/c#/vr/contarPares/obj/Debug/net7.0/contarPares.dll
+/home/jrs/vscode/c#/vr/contarPares/obj/Debug/net7.0/refint/contarPares.dll
+/home/jrs/vscode/c#/vr/contarPares/obj/Debug/net7.0/contarPares.pdb
+/home/jrs/vscode/c#/vr/contarPares/obj/Debug/net7.0/contarPares.genruntimeconfig.cache
+/home/jrs/vscode/c#/vr/contarPares/obj/Debug/net7.0/ref/contarPares.dll

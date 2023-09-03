@@ -1,0 +1,15 @@
+/workspaces/curso/senac/terceiro/poo/aula01/animal/obj/Debug/net7.0/animal.csproj.AssemblyReference.cache
+/workspaces/curso/senac/terceiro/poo/aula01/animal/obj/Debug/net7.0/animal.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/curso/senac/terceiro/poo/aula01/animal/obj/Debug/net7.0/animal.AssemblyInfoInputs.cache
+/workspaces/curso/senac/terceiro/poo/aula01/animal/obj/Debug/net7.0/animal.AssemblyInfo.cs
+/workspaces/curso/senac/terceiro/poo/aula01/animal/obj/Debug/net7.0/animal.csproj.CoreCompileInputs.cache
+/workspaces/curso/senac/terceiro/poo/aula01/animal/bin/Debug/net7.0/animal
+/workspaces/curso/senac/terceiro/poo/aula01/animal/bin/Debug/net7.0/animal.deps.json
+/workspaces/curso/senac/terceiro/poo/aula01/animal/bin/Debug/net7.0/animal.runtimeconfig.json
+/workspaces/curso/senac/terceiro/poo/aula01/animal/bin/Debug/net7.0/animal.dll
+/workspaces/curso/senac/terceiro/poo/aula01/animal/bin/Debug/net7.0/animal.pdb
+/workspaces/curso/senac/terceiro/poo/aula01/animal/obj/Debug/net7.0/animal.dll
+/workspaces/curso/senac/terceiro/poo/aula01/animal/obj/Debug/net7.0/refint/animal.dll
+/workspaces/curso/senac/terceiro/poo/aula01/animal/obj/Debug/net7.0/animal.pdb
+/workspaces/curso/senac/terceiro/poo/aula01/animal/obj/Debug/net7.0/animal.genruntimeconfig.cache
+/workspaces/curso/senac/terceiro/poo/aula01/animal/obj/Debug/net7.0/ref/animal.dll

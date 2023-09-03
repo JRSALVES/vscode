@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "somaPares0a500/1.0.0": {
+        "runtime": {
+          "somaPares0a500.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "somaPares0a500/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

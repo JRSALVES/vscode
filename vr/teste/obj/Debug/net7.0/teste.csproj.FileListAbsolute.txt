@@ -1,0 +1,15 @@
+/run/media/jrs/vscode/vscode/vr/teste/bin/Debug/net7.0/teste
+/run/media/jrs/vscode/vscode/vr/teste/bin/Debug/net7.0/teste.deps.json
+/run/media/jrs/vscode/vscode/vr/teste/bin/Debug/net7.0/teste.runtimeconfig.json
+/run/media/jrs/vscode/vscode/vr/teste/bin/Debug/net7.0/teste.dll
+/run/media/jrs/vscode/vscode/vr/teste/bin/Debug/net7.0/teste.pdb
+/run/media/jrs/vscode/vscode/vr/teste/obj/Debug/net7.0/teste.csproj.AssemblyReference.cache
+/run/media/jrs/vscode/vscode/vr/teste/obj/Debug/net7.0/teste.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/jrs/vscode/vscode/vr/teste/obj/Debug/net7.0/teste.AssemblyInfoInputs.cache
+/run/media/jrs/vscode/vscode/vr/teste/obj/Debug/net7.0/teste.AssemblyInfo.cs
+/run/media/jrs/vscode/vscode/vr/teste/obj/Debug/net7.0/teste.csproj.CoreCompileInputs.cache
+/run/media/jrs/vscode/vscode/vr/teste/obj/Debug/net7.0/teste.dll
+/run/media/jrs/vscode/vscode/vr/teste/obj/Debug/net7.0/refint/teste.dll
+/run/media/jrs/vscode/vscode/vr/teste/obj/Debug/net7.0/teste.pdb
+/run/media/jrs/vscode/vscode/vr/teste/obj/Debug/net7.0/teste.genruntimeconfig.cache
+/run/media/jrs/vscode/vscode/vr/teste/obj/Debug/net7.0/ref/teste.dll
