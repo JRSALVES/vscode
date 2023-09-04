@@ -1,0 +1,15 @@
+/run/media/jrs/vscode/vscode/LinguagemWeb/pti/MediaPonderada/bin/Debug/net7.0/MediaPonderada
+/run/media/jrs/vscode/vscode/LinguagemWeb/pti/MediaPonderada/bin/Debug/net7.0/MediaPonderada.deps.json
+/run/media/jrs/vscode/vscode/LinguagemWeb/pti/MediaPonderada/bin/Debug/net7.0/MediaPonderada.runtimeconfig.json
+/run/media/jrs/vscode/vscode/LinguagemWeb/pti/MediaPonderada/bin/Debug/net7.0/MediaPonderada.dll
+/run/media/jrs/vscode/vscode/LinguagemWeb/pti/MediaPonderada/bin/Debug/net7.0/MediaPonderada.pdb
+/run/media/jrs/vscode/vscode/LinguagemWeb/pti/MediaPonderada/obj/Debug/net7.0/MediaPonderada.csproj.AssemblyReference.cache
+/run/media/jrs/vscode/vscode/LinguagemWeb/pti/MediaPonderada/obj/Debug/net7.0/MediaPonderada.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/jrs/vscode/vscode/LinguagemWeb/pti/MediaPonderada/obj/Debug/net7.0/MediaPonderada.AssemblyInfoInputs.cache
+/run/media/jrs/vscode/vscode/LinguagemWeb/pti/MediaPonderada/obj/Debug/net7.0/MediaPonderada.AssemblyInfo.cs
+/run/media/jrs/vscode/vscode/LinguagemWeb/pti/MediaPonderada/obj/Debug/net7.0/MediaPonderada.csproj.CoreCompileInputs.cache
+/run/media/jrs/vscode/vscode/LinguagemWeb/pti/MediaPonderada/obj/Debug/net7.0/MediaPonderada.dll
+/run/media/jrs/vscode/vscode/LinguagemWeb/pti/MediaPonderada/obj/Debug/net7.0/refint/MediaPonderada.dll
+/run/media/jrs/vscode/vscode/LinguagemWeb/pti/MediaPonderada/obj/Debug/net7.0/MediaPonderada.pdb
+/run/media/jrs/vscode/vscode/LinguagemWeb/pti/MediaPonderada/obj/Debug/net7.0/MediaPonderada.genruntimeconfig.cache
+/run/media/jrs/vscode/vscode/LinguagemWeb/pti/MediaPonderada/obj/Debug/net7.0/ref/MediaPonderada.dll

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = sequncia
-build_property.ProjectDir = /home/jrs/vscode/vr/c#/vr/sequencia/
+build_property.ProjectDir = /run/media/jrs/vscode/vscode/vr/c#/vr/sequencia/

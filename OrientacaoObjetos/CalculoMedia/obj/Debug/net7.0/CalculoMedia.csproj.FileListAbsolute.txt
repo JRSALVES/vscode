@@ -1,0 +1,5 @@
+/run/media/jrs/vscode/vscode/Poo/CalculoMedia/obj/Debug/net7.0/CalculoMedia.csproj.AssemblyReference.cache
+/run/media/jrs/vscode/vscode/Poo/CalculoMedia/obj/Debug/net7.0/CalculoMedia.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/jrs/vscode/vscode/Poo/CalculoMedia/obj/Debug/net7.0/CalculoMedia.AssemblyInfoInputs.cache
+/run/media/jrs/vscode/vscode/Poo/CalculoMedia/obj/Debug/net7.0/CalculoMedia.AssemblyInfo.cs
+/run/media/jrs/vscode/vscode/Poo/CalculoMedia/obj/Debug/net7.0/CalculoMedia.csproj.CoreCompileInputs.cache

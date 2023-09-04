@@ -1,0 +1,15 @@
+/run/media/jrs/vscode/vscode/Poo/pti/pontos/bin/Debug/net7.0/pontos
+/run/media/jrs/vscode/vscode/Poo/pti/pontos/bin/Debug/net7.0/pontos.deps.json
+/run/media/jrs/vscode/vscode/Poo/pti/pontos/bin/Debug/net7.0/pontos.runtimeconfig.json
+/run/media/jrs/vscode/vscode/Poo/pti/pontos/bin/Debug/net7.0/pontos.dll
+/run/media/jrs/vscode/vscode/Poo/pti/pontos/bin/Debug/net7.0/pontos.pdb
+/run/media/jrs/vscode/vscode/Poo/pti/pontos/obj/Debug/net7.0/pontos.csproj.AssemblyReference.cache
+/run/media/jrs/vscode/vscode/Poo/pti/pontos/obj/Debug/net7.0/pontos.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/jrs/vscode/vscode/Poo/pti/pontos/obj/Debug/net7.0/pontos.AssemblyInfoInputs.cache
+/run/media/jrs/vscode/vscode/Poo/pti/pontos/obj/Debug/net7.0/pontos.AssemblyInfo.cs
+/run/media/jrs/vscode/vscode/Poo/pti/pontos/obj/Debug/net7.0/pontos.csproj.CoreCompileInputs.cache
+/run/media/jrs/vscode/vscode/Poo/pti/pontos/obj/Debug/net7.0/pontos.dll
+/run/media/jrs/vscode/vscode/Poo/pti/pontos/obj/Debug/net7.0/refint/pontos.dll
+/run/media/jrs/vscode/vscode/Poo/pti/pontos/obj/Debug/net7.0/pontos.pdb
+/run/media/jrs/vscode/vscode/Poo/pti/pontos/obj/Debug/net7.0/pontos.genruntimeconfig.cache
+/run/media/jrs/vscode/vscode/Poo/pti/pontos/obj/Debug/net7.0/ref/pontos.dll
