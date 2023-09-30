@@ -23,6 +23,5 @@ public class controle {
                 System.out.println("\nAprovado");                
             }            
         }
-    }
-    
+    }  
 }
