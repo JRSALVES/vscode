@@ -1,0 +1,15 @@
+/home/jrs/vscode/OrientacaoObjetos/carros/obj/Debug/net7.0/carros.csproj.AssemblyReference.cache
+/home/jrs/vscode/OrientacaoObjetos/carros/obj/Debug/net7.0/carros.GeneratedMSBuildEditorConfig.editorconfig
+/home/jrs/vscode/OrientacaoObjetos/carros/obj/Debug/net7.0/carros.AssemblyInfoInputs.cache
+/home/jrs/vscode/OrientacaoObjetos/carros/obj/Debug/net7.0/carros.AssemblyInfo.cs
+/home/jrs/vscode/OrientacaoObjetos/carros/obj/Debug/net7.0/carros.csproj.CoreCompileInputs.cache
+/home/jrs/vscode/OrientacaoObjetos/carros/bin/Debug/net7.0/carros
+/home/jrs/vscode/OrientacaoObjetos/carros/bin/Debug/net7.0/carros.deps.json
+/home/jrs/vscode/OrientacaoObjetos/carros/bin/Debug/net7.0/carros.runtimeconfig.json
+/home/jrs/vscode/OrientacaoObjetos/carros/bin/Debug/net7.0/carros.dll
+/home/jrs/vscode/OrientacaoObjetos/carros/bin/Debug/net7.0/carros.pdb
+/home/jrs/vscode/OrientacaoObjetos/carros/obj/Debug/net7.0/carros.dll
+/home/jrs/vscode/OrientacaoObjetos/carros/obj/Debug/net7.0/refint/carros.dll
+/home/jrs/vscode/OrientacaoObjetos/carros/obj/Debug/net7.0/carros.pdb
+/home/jrs/vscode/OrientacaoObjetos/carros/obj/Debug/net7.0/carros.genruntimeconfig.cache
+/home/jrs/vscode/OrientacaoObjetos/carros/obj/Debug/net7.0/ref/carros.dll

@@ -1,0 +1,15 @@
+/home/jrs/vscode/vr/visualg/exerc_14/matriz.alg/bin/Debug/net7.0/matriz.alg
+/home/jrs/vscode/vr/visualg/exerc_14/matriz.alg/bin/Debug/net7.0/matriz.alg.deps.json
+/home/jrs/vscode/vr/visualg/exerc_14/matriz.alg/bin/Debug/net7.0/matriz.alg.runtimeconfig.json
+/home/jrs/vscode/vr/visualg/exerc_14/matriz.alg/bin/Debug/net7.0/matriz.alg.dll
+/home/jrs/vscode/vr/visualg/exerc_14/matriz.alg/bin/Debug/net7.0/matriz.alg.pdb
+/home/jrs/vscode/vr/visualg/exerc_14/matriz.alg/obj/Debug/net7.0/matriz.alg.csproj.AssemblyReference.cache
+/home/jrs/vscode/vr/visualg/exerc_14/matriz.alg/obj/Debug/net7.0/matriz.alg.GeneratedMSBuildEditorConfig.editorconfig
+/home/jrs/vscode/vr/visualg/exerc_14/matriz.alg/obj/Debug/net7.0/matriz.alg.AssemblyInfoInputs.cache
+/home/jrs/vscode/vr/visualg/exerc_14/matriz.alg/obj/Debug/net7.0/matriz.alg.AssemblyInfo.cs
+/home/jrs/vscode/vr/visualg/exerc_14/matriz.alg/obj/Debug/net7.0/matriz.alg.csproj.CoreCompileInputs.cache
+/home/jrs/vscode/vr/visualg/exerc_14/matriz.alg/obj/Debug/net7.0/matriz.alg.dll
+/home/jrs/vscode/vr/visualg/exerc_14/matriz.alg/obj/Debug/net7.0/refint/matriz.alg.dll
+/home/jrs/vscode/vr/visualg/exerc_14/matriz.alg/obj/Debug/net7.0/matriz.alg.pdb
+/home/jrs/vscode/vr/visualg/exerc_14/matriz.alg/obj/Debug/net7.0/matriz.alg.genruntimeconfig.cache
+/home/jrs/vscode/vr/visualg/exerc_14/matriz.alg/obj/Debug/net7.0/ref/matriz.alg.dll

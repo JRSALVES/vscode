@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        <h2>Usando o Fetch Object com requisição em JSON</h2>
+        <p>Enter com o CEP para pesquisar</p>
+        <input type="text" id="cep">
+        <input type="submit" id="pesquisar">
+        <div id="texto"></div>
+        <script>
+            document.getElementById("pesquisar").addEventListener("click",lerDoc);
+            function lerDoc(){
+                var local = document.getElementById("cep").value;
+                var url = "https://viacep.com.br/ws/"+local+"/json/";
+                fetch(url)
+                .then((resultado)=> resultado.json())
+                .then((json)=> {
+                    var resposta = JSON.stringify(json);
+                    document.getElementById("texto").innerHTML = "<br>"+resposta+"<br><br>"
+                    +json.logradouro+"<br>"+json.bairro+"<br>"+json.localidade+" / "+json.uf+"<br>DDD "+json.ddd
+                    console.log(json);
+
+                })
+            }
+        </script>
+    </body>
+</html>

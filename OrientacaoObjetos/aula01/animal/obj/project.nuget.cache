@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i/J+Wmt3girjvOi9fEeFjC3vz4bv4GKCVPobMUBF28o4RwAcfyHBLwzk033lUKU0URXNGX+KIbOyBNbF/RsTXA==",
+  "dgSpecHash": "x/6YKPgtXKe5P/rSmpD9HRTlZMvcQQEHCaRjX51DU37/t6E3eWa7blORo54XgL9uhWdOauVV4dE8sX6Px5O8uA==",
   "success": true,
-  "projectFilePath": "/home/jrs/vscode/curso-1/senac/terceiro/poo/aula01/animal/animal.csproj",
+  "projectFilePath": "/home/jrs/vscode/OrientacaoObjetos/aula01/animal/animal.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

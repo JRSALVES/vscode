@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Await</title>
+    <script type="text/javascript">
+        function getcafe(){
+            return new Promise(resolva => {
+                setTimeout(() => resolva(' Após espera por 10 seg. estou tomando café rsrsrsrsrs'),10000);
+            });
+        };
+            async function go(){
+                const cafe = await getcafe();
+                console.log(cafe);
+            };
+       
+        go();
+    </script>
+</head>
+<body>
+    <h1> Exemplo de declaração de função assíncrona exibindo msg após 10 segundos</h1>
+</body>
+</html>

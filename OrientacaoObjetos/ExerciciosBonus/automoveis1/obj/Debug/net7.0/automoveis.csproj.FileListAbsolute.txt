@@ -1,0 +1,15 @@
+/home/jrs/vscode/OrientacaoObjetos/ExerciciosBonus/automoveis1/obj/Debug/net7.0/automoveis.csproj.AssemblyReference.cache
+/home/jrs/vscode/OrientacaoObjetos/ExerciciosBonus/automoveis1/obj/Debug/net7.0/automoveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/jrs/vscode/OrientacaoObjetos/ExerciciosBonus/automoveis1/obj/Debug/net7.0/automoveis.AssemblyInfoInputs.cache
+/home/jrs/vscode/OrientacaoObjetos/ExerciciosBonus/automoveis1/obj/Debug/net7.0/automoveis.AssemblyInfo.cs
+/home/jrs/vscode/OrientacaoObjetos/ExerciciosBonus/automoveis1/obj/Debug/net7.0/automoveis.csproj.CoreCompileInputs.cache
+/home/jrs/vscode/OrientacaoObjetos/ExerciciosBonus/automoveis1/bin/Debug/net7.0/automoveis
+/home/jrs/vscode/OrientacaoObjetos/ExerciciosBonus/automoveis1/bin/Debug/net7.0/automoveis.deps.json
+/home/jrs/vscode/OrientacaoObjetos/ExerciciosBonus/automoveis1/bin/Debug/net7.0/automoveis.runtimeconfig.json
+/home/jrs/vscode/OrientacaoObjetos/ExerciciosBonus/automoveis1/bin/Debug/net7.0/automoveis.dll
+/home/jrs/vscode/OrientacaoObjetos/ExerciciosBonus/automoveis1/bin/Debug/net7.0/automoveis.pdb
+/home/jrs/vscode/OrientacaoObjetos/ExerciciosBonus/automoveis1/obj/Debug/net7.0/automoveis.dll
+/home/jrs/vscode/OrientacaoObjetos/ExerciciosBonus/automoveis1/obj/Debug/net7.0/refint/automoveis.dll
+/home/jrs/vscode/OrientacaoObjetos/ExerciciosBonus/automoveis1/obj/Debug/net7.0/automoveis.pdb
+/home/jrs/vscode/OrientacaoObjetos/ExerciciosBonus/automoveis1/obj/Debug/net7.0/automoveis.genruntimeconfig.cache
+/home/jrs/vscode/OrientacaoObjetos/ExerciciosBonus/automoveis1/obj/Debug/net7.0/ref/automoveis.dll

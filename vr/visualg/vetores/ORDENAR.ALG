@@ -1,32 +1,28 @@
 Algoritmo "Ordenar"
 //
 //
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Descriï¿½ï¿½o   : Aqui vocï¿½ descreve o que o programa faz! (funï¿½ï¿½o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 02/09/2023
 
 Var
-   // Seção de Declarações das variáveis
+   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
 
    nome:inteiro
-
-
-
-
 
 //Programa principal
 Inicio
 
-   nome[1] <- "José"
+   nome[1] <- "Josï¿½"
    nome[2] <- "Maria"
-   nome[3] <- "João"
+   nome[3] <- "Joï¿½o"
    nome[4] <- "Luis"
    nome[5] <- "Lucas"
    nome[6] <- "Neusa"
    nome[7] <- "Lia"
    nome[8] <- "Carmem"
    nome[9] <- "Bete"
-   nome[10] <- "Adão"
+   nome[10] <- "Adï¿½o"
 
    para i de 1 ate 10 faca
       para j de 1 ate 9 faca

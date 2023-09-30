@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/run/media/jrs/vscode/vscode/vr/c#/vr/fibonacci/fibonacci.csproj": {}
+    "/home/jrs/vscode/vr/c#/vr/fibonacci/fibonacci.csproj": {}
   },
   "projects": {
-    "/run/media/jrs/vscode/vscode/vr/c#/vr/fibonacci/fibonacci.csproj": {
+    "/home/jrs/vscode/vr/c#/vr/fibonacci/fibonacci.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/run/media/jrs/vscode/vscode/vr/c#/vr/fibonacci/fibonacci.csproj",
+        "projectUniqueName": "/home/jrs/vscode/vr/c#/vr/fibonacci/fibonacci.csproj",
         "projectName": "fibonacci",
-        "projectPath": "/run/media/jrs/vscode/vscode/vr/c#/vr/fibonacci/fibonacci.csproj",
+        "projectPath": "/home/jrs/vscode/vr/c#/vr/fibonacci/fibonacci.csproj",
         "packagesPath": "/home/jrs/.nuget/packages/",
-        "outputPath": "/run/media/jrs/vscode/vscode/vr/c#/vr/fibonacci/obj/",
+        "outputPath": "/home/jrs/vscode/vr/c#/vr/fibonacci/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jrs/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
         }
       }
     }

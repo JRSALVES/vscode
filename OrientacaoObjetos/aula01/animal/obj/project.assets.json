@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/jrs/vscode/curso-1/senac/terceiro/poo/aula01/animal/animal.csproj",
+      "projectUniqueName": "/home/jrs/vscode/OrientacaoObjetos/aula01/animal/animal.csproj",
       "projectName": "animal",
-      "projectPath": "/home/jrs/vscode/curso-1/senac/terceiro/poo/aula01/animal/animal.csproj",
+      "projectPath": "/home/jrs/vscode/OrientacaoObjetos/aula01/animal/animal.csproj",
       "packagesPath": "/home/jrs/.nuget/packages/",
-      "outputPath": "/home/jrs/vscode/curso-1/senac/terceiro/poo/aula01/animal/obj/",
+      "outputPath": "/home/jrs/vscode/OrientacaoObjetos/aula01/animal/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/jrs/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
       }
     }
   }

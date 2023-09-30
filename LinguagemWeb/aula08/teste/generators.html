@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generators</title>
+    <script type="text/javascript">
+        function* disciplina(){
+            yield 'Matemática';
+            yield 'Programção';
+            yield 'Banco de Dados';
+        }
+        var matricula = disciplina();
+        console.log(" Sua primeira disciplina : "+matricula.next().value);
+        console.log(" Sua segunda disciplina : "+matricula.next().value);
+        console.log(" Sua terceira disciplina: "+matricula.next().value)
+    </script>
+</head>
+<body>
+    <h1> Exemplos de declaração da função Generators</h1>
+</body>
+</html>

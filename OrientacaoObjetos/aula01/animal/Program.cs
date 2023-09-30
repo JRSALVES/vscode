@@ -24,8 +24,11 @@ class Program
         animal1.nome = "Toby";
         animal1.idade = 15;
 
+        Animal animal2 = new Animal("Jeruso", 25);
+
         Console.WriteLine("Nome: " +animal1.nome+ ",  Idade: " +animal1.idade);
-        
+        Console.WriteLine("Nome: " +animal2.nome+ ",  Idade: " +animal2.idade);
+       
     }
 
 }

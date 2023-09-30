@@ -1,34 +1,37 @@
-class Game{
-
+//Objeto Jogador
+class Jogador{
+    //Atributos do objeto Jogador
         nome
-        xp
-        hp
-    constructor(nome, xp, hp){
+        hp = 100
+        xp = 0
+        envenenado = false
+
+    //Construtor do objeto Jogador
+    constructor(nome){
         this.nome = nome
-        this.xp = xp 
-        this.hp = hp
-        }
-        
-   
-}
-
-
-class Jogador extends Game{
-    nome = "JRS"
-    xp = 10
-    hp = 1000   
-
-    get vida(){
-        return this.ataque()
     }
 
-    ataque(){
-        return (this.hp - this.xp)
+    //Métodos do objeto    
+    receberDano(ponto){
+        this.ponto -= ponto
+    }
+    ganharexperiencia(pontos){
+        this.xp += pontos
+    }
+    envenenar(jogador){
+        this.envenenado = true
+    }
+    atacar(jogador){
+        jogador.receberDano(2)
+        this.ganharexperiencia(1)
     }
 }
 
+const jogador1 = new Jogador("Frodo")
+const jogador2 = new Jogador("João")
 
-const jogador1 = new Jogador
+jogador2.atacar(jogador1)
+jogador1.envenenar(jogador2)
 
-console.log(jogador1.nome)
-console.log(jogador1.vida)
+console.log(jogador1)
+console.log(jogador2)

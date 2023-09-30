@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Variaáveis Local</title>
+    <script type="text/javascript">
+        function valor(){
+            a = 1;
+            var b = 3;
+            console.log("Fora do escopo da função (b) não existirá, esta chamada foi feito dentro do escopo da função valor(b), b = "+b);
+        
+            
+        }
+        valor();
+        // como b voi declarado dentro da função só é retornável se a chamada for dentro da função
+        console.log("Chamada de (a) fora da função, O valor é reconhecido como global  a = "+a);
+        console.log("Chamada de (b) fora,  valor de b foi declarado dentro da função como local = "+b);
+
+    </script>
+</head>
+<body>
+    <h1>Exemplos de variáveis local</h1>
+</body>
+</html>

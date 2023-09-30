@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        #qmaior{
+            width: 400px;
+            height: 400px;
+            position: relative;
+            background-color: yellow;
+        }
+        #qmenor{
+            width: 50px;
+            height: 50px;
+            position: absolute;
+            background-color: red;
+        }
+    </style>
+    <body>
+        <p><button onclick="myMove()">Click aqui para iniciar o movimento</button></p>
+        <div id="qmaior">
+            <div id="qmenor"></div>
+        </div>
+        <script>
+            function myMove(){
+                var elem = document.getElementById("qmenor");
+                var inic = 0;
+                var id = setInterval(frame, 20);
+                function frame(){
+                    if(inic == 350){
+                        clearInterval(id);
+                    }else{
+                        inic++;
+                        elem.style.top = inic + "px";
+                        elem.style.left = inic + "px";
+                    }
+                }
+            }
+        </script>
+    </body>
+</html>
