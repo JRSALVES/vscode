@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/TReB0oHgnJfAv5QrgKkriC5XN6gvACY+SD/pf4UlHtiaC0RrO0oUdHGW1iAynw35KvLcDjZZ4+BX4hE+Dt+nQ==",
+  "dgSpecHash": "vhfqDNEyUDchcz44D4YdyN3gx6tM9FiTRcG0k3fI4aGfns0hoQzs+FPDiuTfN+KqBwvEjaJxb5gKXZSBx62ZHQ==",
   "success": true,
-  "projectFilePath": "/home/jrs/vscode/c#/vr/paresSequenciaCinco/paresSequenciaCinco.csproj",
+  "projectFilePath": "/home/jrs/vscode/vr/c#/vr/paresSequenciaCinco/paresSequenciaCinco.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

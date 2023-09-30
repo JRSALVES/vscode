@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+lT+Z8ukh1vbDElJhhIhthuCZUNKmBwB4Qg6YnFaGdboBCYvDcXvFXShcbdq36NXwGjdI3qjCs5nP3Al1ihj+g==",
+  "dgSpecHash": "R6iHVO8S3m+ayJ99dovtvy3CCuu0+oppuQbyw7EtM8/xEhT80B8kLLYBFah0mUtCpQIOdz6Ep50UUhJwJ3Jd3w==",
   "success": true,
-  "projectFilePath": "/home/jrs/vscode/c#/vr/tempMedia/tempMedia.csproj",
+  "projectFilePath": "/home/jrs/vscode/vr/c#/vr/tempMedia/tempMedia.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

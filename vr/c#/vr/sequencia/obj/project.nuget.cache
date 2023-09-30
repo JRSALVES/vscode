@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+RG8KeYPzhUin3r2f3sHHunp6pBFf0Wk+DEU/xaUxA94ePnf3ENHyek9igoiBELQJcI4C1mEASkl29IjAO2JCQ==",
+  "dgSpecHash": "LIbjcI6BPwkxWq9TF2s1Y2eW42SmXO85GvowvOqA/exmn4K2qSr+ptR20CB7qkZORacoRFIrWCLSp1R9Wj3AkQ==",
   "success": true,
-  "projectFilePath": "/home/jrs/vscode/c#/vr/sequencia/sequncia.csproj",
+  "projectFilePath": "/home/jrs/vscode/vr/c#/vr/sequencia/sequncia.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

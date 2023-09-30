@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0e907lWriFCxBfRiE/jSe91enhj8fjcKcaCMx/rGTBAtBX2svndeWUb2pBSoj8f1mDiu2MgYantJEu7zPux+1Q==",
+  "dgSpecHash": "vhyeQH11d734H3s5XQW5YRP9Foal3yUXPVzNbTZ4g/Mjfyk1D/FzVWliuwgYNxlK6mSM/snasHLUg+mREsoEXA==",
   "success": true,
-  "projectFilePath": "/home/jrs/vscode/c#/vr/fatorial/fatorial.csproj",
+  "projectFilePath": "/home/jrs/vscode/vr/c#/vr/fatorial/fatorial.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

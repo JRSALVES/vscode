@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fxKW0MgALNonWfo/oUnTvkhlDgik1BeaU3VXyoL/RboEruwpMW7kW5OvQ78NnZ7QJMBeT8iHDpLUXCiB4k6eHA==",
+  "dgSpecHash": "9CdwLrm8kjTXWQjzsDYklllTpwKy6a9ayjy65XWBiLhTc9wXJj0FffHgFbLYJ6vSoHjOpEAp/A8CIwr/Ggz32A==",
   "success": true,
-  "projectFilePath": "/home/jrs/vscode/c#/vr/primosEpar/primosEpar.csproj",
+  "projectFilePath": "/home/jrs/vscode/vr/c#/vr/primosEpar/primosEpar.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

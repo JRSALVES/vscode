@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RwR1kcv0TnLf3nXpIkxWsctTmbLnq4QXB1muCY6FZ4HDF/H715SFq86TfmNGO74Tx0RVapaLmjAsP7HxE+QGHQ==",
+  "dgSpecHash": "Ik/hY2dlgUGJXdtFNa7usaKpLQ/agHmFlQ+Wgo3dox5qootqSARCJuC+7+H/5CqPMTRNBJ//eoSnisWmbM9kGg==",
   "success": true,
-  "projectFilePath": "/home/jrs/vscode/c#/vr/boi/boi.csproj",
+  "projectFilePath": "/home/jrs/vscode/vr/c#/vr/boi/boi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

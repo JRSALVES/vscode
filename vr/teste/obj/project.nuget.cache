@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cILq+nQfrnebfRRhCMFIBubLL5KysYxFb4UX1EvKaUzXlVfeIYUH8hMXJES9iOiG15uaejcscWPTkfQeLpX2Fg==",
+  "dgSpecHash": "roik12OPVAykFmq6Hap1IZSedpY4wYsQ85t+8Kc5XIbT+Hicuc4GfSMXguzxvrB0h49Gon2nSo7fqbVXysI+aQ==",
   "success": true,
-  "projectFilePath": "/run/media/jrs/vscode/vscode/vr/teste/teste.csproj",
+  "projectFilePath": "/home/jrs/vscode/vr/teste/teste.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2YJns4UyvBjvccT8kQD88hAxvkg2/G9rbzdK2ZJkjqIPiCBX1iBsWGXyGd7o8PrrClhjBd3gAjPuB1h97g5khQ==",
+  "dgSpecHash": "JqKp63v5dxNCywFwnCksZf9Xs3VWBfrRmWjde/5BwJ2aNBjQtTtzb9JpUTZtUtQuPj3E4XVvBSHn175S7JNELw==",
   "success": true,
-  "projectFilePath": "/home/jrs/vscode/c#/vr/contarPares/contarPares.csproj",
+  "projectFilePath": "/home/jrs/vscode/vr/c#/vr/contarPares/contarPares.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

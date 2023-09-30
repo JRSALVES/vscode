@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iPgCixpjqVGq3sz+k3rfzNJSmBdCfrwQDOAzXwXezKCIfQ1metgR5CqDfx1ku/xMRphgkMlTJ7XFQ707qW1uGg==",
+  "dgSpecHash": "MyVnUWUhtVCdMYRPHM0IQC3nKKBq7LB8aePG+69lhAF5TVonTSex87z15uKhMX4Jftb9ZDHhuDASheQb6V1EAw==",
   "success": true,
-  "projectFilePath": "/home/jrs/vscode/c#/vr/soma/soma.csproj",
+  "projectFilePath": "/home/jrs/vscode/vr/c#/vr/soma/soma.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jrs/vscode/c#/vr/somaPares0a500/somaPares0a500.csproj": {}
+    "/home/jrs/vscode/vr/c#/vr/somaPares0a500/somaPares0a500.csproj": {}
   },
   "projects": {
-    "/home/jrs/vscode/c#/vr/somaPares0a500/somaPares0a500.csproj": {
+    "/home/jrs/vscode/vr/c#/vr/somaPares0a500/somaPares0a500.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jrs/vscode/c#/vr/somaPares0a500/somaPares0a500.csproj",
+        "projectUniqueName": "/home/jrs/vscode/vr/c#/vr/somaPares0a500/somaPares0a500.csproj",
         "projectName": "somaPares0a500",
-        "projectPath": "/home/jrs/vscode/c#/vr/somaPares0a500/somaPares0a500.csproj",
+        "projectPath": "/home/jrs/vscode/vr/c#/vr/somaPares0a500/somaPares0a500.csproj",
         "packagesPath": "/home/jrs/.nuget/packages/",
-        "outputPath": "/home/jrs/vscode/c#/vr/somaPares0a500/obj/",
+        "outputPath": "/home/jrs/vscode/vr/c#/vr/somaPares0a500/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jrs/.nuget/NuGet/NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.110/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/7.0.111/RuntimeIdentifierGraph.json"
         }
       }
     }

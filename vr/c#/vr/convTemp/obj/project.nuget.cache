@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tlAJVvth2sja7SEjs+PqtBTu37+fEZUsDpq8ceMjPKTC7NSYnbubxLwS2IZgIYn4AKjs1z6iFohJi8/3oCcsrw==",
+  "dgSpecHash": "VvedUSTYopoMRZLIeDgB+/RqKW6WUeAgK3cV8Mn32YBQQ58AkPKtMY56hwQlbiuN2LGstP5G8bUo4+POEyLA0w==",
   "success": true,
-  "projectFilePath": "/home/jrs/vscode/c#/vr/convTemp/convTemp.csproj",
+  "projectFilePath": "/home/jrs/vscode/vr/c#/vr/convTemp/convTemp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
