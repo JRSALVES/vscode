@@ -20,7 +20,7 @@ public class controle {
             if (valor < 7) {
                 System.out.println("\nRecuperação");                
             } else {
-                System.out.println("\nAprovado");                
+                System.out.println("\nAprovado com louvor");                
             }            
         }
     }  
